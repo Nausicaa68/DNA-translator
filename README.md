@@ -12,8 +12,7 @@ This program offers you several possibilities:
 - You can visualize the amino acid chain with a phase of 0, 1 or 2. 
 - You can visualize the amino acid chain with the conventional codes of 1 or 3 letters.  
 
-
-![image](https://user-images.githubusercontent.com/58084848/177000088-81f5b322-7d16-46fd-8c09-8003c611a6d0.png)
+![python_pO78K5bLue](https://user-images.githubusercontent.com/58084848/177000405-0142770f-6e9c-4c9f-9c86-96c3c21ad907.png)
 
 
 # Setup and run
