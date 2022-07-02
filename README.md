@@ -7,7 +7,7 @@ This program can read files in fasta format, a text file format used to store bi
 This program offers you several possibilities: 
 - You can visualize a counter giving the number of nucleobases A, T, G and C. 
 - You can generate a random DNA strand of the length you want
-- You can read a fasta file
+- You can read a fasta file (try it with the "test.fasta" file)
 - You can use the reverse and complement features on the DNA strand
 - You can visualize the amino acid chain with a phase of 0, 1 or 2. 
 - You can visualize the amino acid chain with the conventional codes of 1 or 3 letters.  
